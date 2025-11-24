@@ -1,0 +1,204 @@
+body {
+                        
+                       font-family:Arial, sans-serif;
+                        background: rgb(5, 5, 5);
+                        margin: 30px;
+                        
+                         }
+                           .bingo2 {
+                          position: absolute; 
+                          top: 9%;
+                          right: 8%;
+                          left: 53%;
+                          width: 700px;
+                          height: 600px;
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen022.jpg');
+                          background-size: cover;
+                          }
+                           .contenedor {
+                        position: absolute; 
+                        text-align: left;
+                        top:4%;
+                        right: 20%;
+                        left: 8%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn {
+                           display: inline-block;       
+                           padding: 10px 20px;          
+                           background-color: #e7dddd;  
+                           color: rgb(8, 8, 8);              
+                           text-decoration: none;       
+                           border-radius: 30px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #f5f0f0;   
+                         }
+                          .contenedor7 {
+                          position: absolute; 
+                          text-align: left;
+                          top: 18%;
+                          right: 8%;
+                          left: 8%;
+                          width: 52%;
+                          height: 54%;
+                          font-size: 43px;
+                          color: #fdfcfc;
+                          text-align: left;
+                          overflow: hidden;
+                         
+                          }
+                          .contenedor1 {
+                          position: absolute; 
+                          text-align: left;
+                          top: 20%;
+                          right: 8%;
+                          left: 8%;
+                          width: 45%;
+                          height: 48%;
+                          font-size: 43px;
+                          color: #fdfcfc;
+                          text-align: left;
+                          overflow: hidden;
+                         
+                          }
+                           .contenedor2 {
+                        position: absolute; 
+                        text-align: left;
+                        top:4%;
+                        right: 20%;
+                        left: 8%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn1 {
+                           display: inline-block;       
+                           padding: 10px 20px;          
+                           background-color: white;  
+                           color: rgb(7, 6, 6);              
+                           text-decoration: none;       
+                           border-radius: 30px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+s
+                         .btn:hover {
+                          background-color: white;   
+                         }
+                           .bingo3 {
+                          position: absolute; 
+                          top: 9%;
+                          right: 8%;
+                          left: 48%;
+                          width: 680px;
+                          height: 580px;
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen023.jpg');
+                          background-size: cover;
+                          }
+                            .contenedor3 {
+                        position: absolute; 
+                        text-align: left;
+                        top:4%;
+                        right: 20%;
+                        left: 8%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn2 {
+                           display: inline-block;       
+                           padding: 10px 20px;          
+                           background-color: white;  
+                           color: rgb(7, 6, 6);              
+                           text-decoration: none;       
+                           border-radius: 30px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+s
+                         .btn:hover {
+                          background-color: white;   
+                         }
+                         .contenedor4 {
+                          position: absolute; 
+                          text-align: left;
+                          top: 18%;
+                          right: 8%;
+                          left: 8%;
+                          width: 52%;
+                          height: 54%;
+                          font-size: 43px;
+                          color: #fdfcfc;
+                          text-align: left;
+                          overflow: hidden;
+                         
+                          }
+                           .bingo4 {
+                          position: absolute; 
+                          top: 3%;
+                          right: 8%;
+                          left: 53%;
+                          width: 480px;
+                          height: 600px;
+                          opacity: 0.7; 
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen024.jpg');
+                          background-size: cover;
+                          }
+                          .contenedor5 {
+                        position: absolute; 
+                        text-align: left;
+                        top:4%;
+                        right: 20%;
+                        left: 8%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn3 {
+                           display: inline-block;       
+                           padding: 10px 20px;          
+                           background-color: white;  
+                           color: rgb(7, 6, 6);              
+                           text-decoration: none;       
+                           border-radius: 30px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+s
+                         .btn:hover {
+                          background-color: white;   
+                         }
+                         .contenedor6 {
+                          position: absolute; 
+                          text-align: left;
+                          top: 18%;
+                          right: 8%;
+                          left: 8%;
+                          width: 52%;
+                          height: 54%;
+                          font-size: 43px;
+                          color: #fdfcfc;
+                          text-align: left;
+                          overflow: hidden;
+                         
+                          }
+                          .bingo5 {
+                          position: absolute; 
+                          top: 3%;
+                          right: 8%;
+                          left: 40%;
+                          width: 800px;
+                          height: 600px;
+                          opacity: 0.6; 
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen025.jpg');
+                          background-size: cover;
+                          }
