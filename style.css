@@ -1,0 +1,1600 @@
+body {
+                        
+                       font-family:Arial, sans-serif;
+                        background: rgb(250, 250, 248);
+                        margin: 30px;
+                        
+                         }
+                          
+                         .bingo {
+                          position: absolute; 
+                          top: 5%;
+                          right: 8%;
+                          left: 2%;
+                          width: 15%;
+                          height: 12%;
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen01.jpg');
+                          background-size: cover;
+                          }
+                           .contenedor1 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 5%;
+                        right: 4%;
+                        left: 82%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn1 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #2f3077;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 18px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #3436a1;   
+                         }
+                           .contenedor2 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 28%;
+                        right: 20%;
+                        left: 3%;
+                        width: 98%;
+                        height: 50%;
+                        }
+                          h1 {
+                        color: rgb(3, 3, 3);
+                        text-align: center;
+                        font-size:  88px;
+                        }
+                         .contenedor3 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 39%;
+                        right: 20%;
+                        left: 19%;
+                        width: 30%;
+                        height: 50%;
+                        }
+                          h2 {
+                        color: rgb(39, 36, 204);
+                        text-align: center;
+                        font-size:  88px;
+                        }
+                         .contenedor4 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 41%;
+                        right: 20%;
+                        left: 40%;
+                        width: 60%;
+                        height: 50%;
+                        }
+                          h1 {
+                        color: rgb(8, 8, 8);
+                        text-align: center;
+                        font-size:  88px;
+                        }
+                         .contenedor5 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 70%;
+                        right: 4%;
+                        left: 34%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn2 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #2d2fa3;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #2e31df;   
+                         }
+                          .contenedor6 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 70%;
+                        right: 4%;
+                        left: 54%;
+                        width: 29%;
+                        height: 50%;
+                        }
+                        .btn3 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #aaaad1;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #9697bd;   
+                         }
+                          .bingo1 {
+                          position: absolute; 
+                          top: 80%;
+                          right: 8%;
+                          left: 14%;
+                          width: 75%;
+                          height: 80%;
+                          background-color: rgb(6, 85, 12);
+                          background-image: url('imagen02.jpg');
+                          background-size: cover;
+                          }
+
+                          .linea1 {
+                           position: absolute;
+                           top: 168%;              
+                           left: 58%;            
+                           width: 3px;              
+                           height: 59px;           
+                           background-color: rgb(10, 10, 10);
+                           position: absolute;
+                          }
+
+                          .izquierda1 {
+                            transform: rotate(-1deg); 
+                            transform-origin: top;    
+                          }
+                          .contenedor7  {
+                        position: absolute; 
+                        text-align: left;
+                        top: 160%;
+                        right: 0%;
+                        left: 3%;
+                        width: 96%;
+                        height: 15%;
+                        font-size: 30px;
+                        color: rgb(78, 77, 77);
+                        font-weight: bold;
+                        text-align: left;
+                        overflow: hidden;
+                        background-color: rgb(166, 219, 219);
+                        }
+                        
+                         .contenedor8 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 165%;
+                        right: 20%;
+                        left: 3%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                        }
+                         .Parrafo {
+                        position: absolute; 
+                        text-align: left;
+                        top: 169%;
+                        right: 0%;
+                        left: 5%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+
+                        .contenedor9 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 165%;
+                        right: 20%;
+                        left: 57%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                        }
+                        .Parrafo2 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 169%;
+                        right: 0%;
+                        left: 59%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+
+                        .linea2 {
+                           position: absolute;
+                           top: 188%;              
+                           left: 58%;            
+                           width: 3px;              
+                           height: 59px;           
+                           background-color: rgb(10, 10, 10);
+                           position: absolute;
+                          }
+
+                          .izquierda2 {
+                            transform: rotate(-1deg); 
+                            transform-origin: top;    
+                          }
+                          .contenedor10  {
+                        position: absolute; 
+                        text-align: left;
+                        top: 180%;
+                        right: 0%;
+                        left: 3%;
+                        width: 96%;
+                        height: 15%;
+                        font-size: 30px;
+                        color: rgb(78, 77, 77);
+                        font-weight: bold;
+                        text-align: left;
+                        overflow: hidden;
+                        background-color: rgb(184, 228, 228);
+                        }
+                         .contenedor11 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 185%;
+                        right: 20%;
+                        left: 3%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                        }
+                        .Parrafo3 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 189%;
+                        right: 0%;
+                        left: 5%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+                        .contenedor12 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 185%;
+                        right: 20%;
+                        left: 57%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                      }
+
+                      .Parrafo4 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 189%;
+                        right: 0%;
+                        left: 59%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+
+                        .linea3 {
+                           position: absolute;
+                           top: 208%;              
+                           left: 58%;            
+                           width: 3px;              
+                           height: 59px;           
+                           background-color: rgb(10, 10, 10);
+                           position: absolute;
+                          }
+
+                          .izquierda3 {
+                            transform: rotate(-1deg); 
+                            transform-origin: top;    
+                          }
+
+                         .contenedor13  {
+                        position: absolute; 
+                        text-align: left;
+                        top: 200%;
+                        right: 0%;
+                        left: 3%;
+                        width: 96%;
+                        height: 15%;
+                        font-size: 30px;
+                        color: rgb(78, 77, 77);
+                        font-weight: bold;
+                        text-align: left;
+                        overflow: hidden;
+                        background-color: rgb(184, 228, 228);
+                        }
+                         .contenedor14 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 205%;
+                        right: 20%;
+                        left: 3%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                        }
+                        .Parrafo5 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 209%;
+                        right: 0%;
+                        left: 5%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+                         .contenedor15 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 205%;
+                        right: 20%;
+                        left: 57%;
+                        width: 18%;
+                        height: 16%;
+                        }
+                          h3 {
+                        color: rgb(68, 66, 66);
+                        text-align: center;
+                        font-size:  20px;
+                      }
+                       .Parrafo6 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 209%;
+                        right: 0%;
+                        left: 59%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(104, 101, 101); 
+                        font-size: 14px;
+                        }
+                         .contenedor16 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 225%;
+                        right: 0%;
+                        left: 44%;
+                        width: 25%;
+                        height: 50%;
+                        }
+                        .btn4 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #393b81;   
+                         }
+
+                          .contenedor17 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 239%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 30%;
+                        border-radius: 13px;
+                        background-color: rgb(162, 227, 231);
+                        }
+
+                         .contenedor18 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 235%;
+                        right: 20%;
+                        left: 7%;
+                        width: 40%;
+                        height: 20%;
+                        font-size: 14px;
+                        }
+                          h4 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+
+                          .contenedor19 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 245%;
+                        right: 20%;
+                        left: 7%;
+                        width: 38%;
+                        height: 45%;
+                        font-size: 14px;
+                        color: rgb(104, 103, 103);
+                        overflow: hidden;
+                        }
+
+                       .contenedor20 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 239%;
+                        right: 20%;
+                        left: 54%;
+                        width: 45%;
+                        height: 30%;
+                        border-radius: 13px;
+                        background-color: rgb(63, 77, 156);
+                        }
+
+                         .contenedor21 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 233%;
+                        right: 20%;
+                        left: 57%;
+                        width: 40%;
+                        height: 20%;
+                        font-size: 14px;
+                        }
+                          h5 {
+                        color: rgb(236, 228, 228);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+                        
+                          .contenedor22 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 245%;
+                        right: 20%;
+                        left: 59%;
+                        width: 38%;
+                        height: 45%;
+                        font-size: 14px;
+                        color: rgb(240, 232, 232);
+                        overflow: hidden;
+                        }
+
+                        .contenedor23 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 273%;
+                        right: 20%;
+                        left: 29%;
+                        width: 45%;
+                        height: 30%;
+                        border-radius: 13px;
+                        background-color: rgb(162, 227, 231);
+                        }
+
+                         .contenedor24 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 271%;
+                        right: 20%;
+                        left: 29%;
+                        width: 45%;
+                        height: 20%;
+                        font-size: 14px;
+                        }
+                          h4 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+                       .contenedor25 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 278.8%;
+                        right: 20%;
+                        left: 33%;
+                        width: 38%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(104, 103, 103);
+                        overflow: hidden;
+                        }
+
+                         .contenedor26 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 0%;
+                        right: 20%;
+                        left: 0%;
+                        width: 38%;
+                        height: 8%;
+                        font-size: 14px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+                       .contenedor27 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 12%;
+                        right: 20%;
+                        left: 3%;
+                        width: 90%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        
+                        .contenedor28 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 2%;
+                        right: 0%;
+                        left: 78%;
+                        width: 25%;
+                        height: 50%;
+                        }
+                        .btn5 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #393b81;   
+                         }  
+                          .contenedor29 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 28%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 102%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        }     
+                        .bingo2 {
+                          position: absolute; 
+                          top: 35%;
+                          right: 8%;
+                          left: 6%;
+                          width: 40%;
+                          height: 53%;
+                          background-image: url('imagen012.png');
+                          background-size: cover;
+                          }   
+                          .contenedor30 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 87%;
+                        right: 20%;
+                        left: 3%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 14px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }  
+                      .contenedor31 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 100%;
+                        right: 20%;
+                        left: 4%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       } 
+                        
+                       .contenedor32 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 107%;
+                        right: 0%;
+                        left: 4%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 15px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        } 
+                        .contenedor33 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 111%;
+                        right: 20%;
+                        left: 4%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }             
+                        .contenedor34 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 112%;
+                        right: 0%;
+                        left: 3%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 28px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }
+                         .contenedor35 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 118%;
+                        right: 0%;
+                        left: 32%;
+                        width: 20%;
+                        height: 15%;
+                        }
+                        .btn6 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #393b81;   
+                         }  
+
+                          .contenedor36 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 28%;
+                        right: 20%;
+                        left: 52%;
+                        width: 46%;
+                        height: 102%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        }   
+                        .bingo3 {
+                          position: absolute; 
+                          top: 35%;
+                          right: 8%;
+                          left: 54%;
+                          width: 45%;
+                          height: 59%;
+                          background-image: url('imagen013.png');
+                          background-size: cover;
+                          }  
+                           .contenedor37 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 87%;
+                        right: 20%;
+                        left: 53%;
+                        width: 15%;
+                        height: 8%;
+                        font-size: 14px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      } 
+                       .contenedor38 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 100%;
+                        right: 20%;
+                        left: 54%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }  
+                       .contenedor39 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 107%;
+                        right: 0%;
+                        left: 54%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 15px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }
+                         .contenedor40 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 111%;
+                        right: 20%;
+                        left: 54%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       } 
+                        .contenedor41 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 112%;
+                        right: 0%;
+                        left: 54%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 28px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        } 
+                        .contenedor42 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 118%;
+                        right: 0%;
+                        left: 80%;
+                        width: 20%;
+                        height: 15%;
+                        }
+                        .btn7 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #393b81;   
+                         }
+                         
+                          .contenedor43 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 133%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 102%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        } 
+                        .bingo4 {
+                          position: absolute; 
+                          top: 130%;
+                          right: 8%;
+                          left: 6%;
+                          width: 40%;
+                          height: 63%;
+                          background-image: url('imagen015.png');
+                          background-size: cover;
+                          }
+                            .contenedor44 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 190%;
+                        right: 20%;
+                        left: 3%;
+                        width: 22%;
+                        height: 8%;
+                        font-size: 14px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      } 
+                      .contenedor45 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 204%;
+                        right: 20%;
+                        left: 4%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }  
+                       .contenedor46 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 211%;
+                        right: 0%;
+                        left: 4%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 15px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        } 
+                        .contenedor47 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 213%;
+                        right: 20%;
+                        left: 4%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }  
+                         
+                        .contenedor48 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 216%;
+                        right: 0%;
+                        left: 3%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 28px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }
+                        .contenedor49 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 222%;
+                        right: 0%;
+                        left: 30%;
+                        width: 25%;
+                        height: 50%;
+                        }
+                        .btn10 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #393b81;   
+                         }  
+                         
+                          .contenedor50 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 133%;
+                        right: 20%;
+                        left: 52%;
+                        width: 46%;
+                        height: 102%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        } 
+                        .bingo5 {
+                          position: absolute; 
+                          top: 130%;
+                          right: 8%;
+                          left: 54%;
+                          width: 40%;
+                          height: 63%;
+                          background-image: url('imagen018.png');
+                          background-size: cover;
+                          }
+                            .contenedor51 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 190%;
+                        right: 20%;
+                        left: 50%;
+                        width: 22%;
+                        height: 8%;
+                        font-size: 14px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      } 
+                      .contenedor52 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 204%;
+                        right: 20%;
+                        left: 54%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                       .contenedor53 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 211%;
+                        right: 0%;
+                        left: 54%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 15px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }
+                         .contenedor54 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 213%;
+                        right: 20%;
+                        left: 54%;
+                        width: 8%;
+                        height: 8%;
+                        font-size: 15px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       } 
+                       .contenedor55 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 216%;
+                        right: 0%;
+                        left: 54%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(7, 7, 7); 
+                        font-size: 28px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }   
+                        .contenedor56 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 222%;
+                        right: 0%;
+                        left: 80%;
+                        width: 20%;
+                        height: 15%;
+                        }
+                        .btn9 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #373881;   
+                           color: rgb(252, 246, 246);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+
+                         .btn:hover {
+                          background-color: #393b81;   
+                         } 
+                         
+                         .bingo6 {
+                          position: absolute; 
+                          top: 200%;
+                          right: 8%;
+                          left: 1%;
+                          width: 1000px;
+                          height: 700px;
+                          background-image: url('imagen017.png');
+                          background-size: cover;
+                          }
+
+                           .contenedor57 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 0%;
+                        right: 20%;
+                        left: 2%;
+                        width: 30%;
+                        height: 8%;
+                        font-size: 16px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+                      .contenedor58 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 12%;
+                        right: 20%;
+                        left: 3%;
+                        width: 90%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                       .contenedor59 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 2%;
+                        right: 0%;
+                        left: 87%;
+                        width: 10%;
+                        height: 50%;
+                        }
+                        .btn11 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #96dbf1;   
+                           color: rgb(48, 108, 177);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #96dbf1;   
+                         }
+                         .contenedor60 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 2%;
+                        right: 0%;
+                        left: 93%;
+                        width: 10%;
+                        height: 50%;
+                        }
+                        .btn12 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #9be3f0;   
+                           color: rgb(70, 87, 235);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #94dcdf;   
+                         } 
+                          .contenedor61 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 50%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 56%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        } 
+                         .contenedor62 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 27%;
+                        right: 20%;
+                        left: 18%;
+                        width: 242px;
+                        height: 250px;
+                        border-radius: 115px 115px 115px 115px;
+                        background-color: rgb(230, 239, 240);
+                        }  
+                        .contenedor63 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 28%;
+                        right: 20%;
+                        left: 18.6%;
+                        width: 226px;
+                        height: 234px;
+                        font-size: 30px;
+                        border-radius: 109px 109px 109px 109px;
+                        background-image: url('imagen019.jpg');
+                        background-size: cover;
+                        } 
+                        .contenedor64 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 60%;
+                        right: 0%;
+                        left: 26%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(11, 6, 73); 
+                        font-size: 40px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        }
+                        .contenedor65 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 71%;
+                        right: 20%;
+                        left: 22%;
+                        width: 20%;
+                        height: 20%;
+                        font-size: 24px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }   
+                        .contenedor66 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 82%;
+                        right: 20%;
+                        left: 5%;
+                        width: 40%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(12, 11, 11);
+                        overflow: hidden;
+                       }   
+
+                       .contenedor67 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 50%;
+                        right: 20%;
+                        left: 53%;
+                        width: 45%;
+                        height: 56%;
+                        border-radius: 3px;
+                        background-color: rgb(162, 227, 231);
+                        } 
+                        .contenedor68 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 27%;
+                        right: 20%;
+                        left: 67.3%;
+                        width: 242px;
+                        height: 250px;
+                        border-radius: 115px 115px 115px 115px;
+                        background-color: rgb(230, 239, 240);
+                        } 
+                        .contenedor69 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 28%;
+                        right: 20%;
+                        left: 68%;
+                        width: 226px;
+                        height: 234px;
+                        font-size: 200px 200px;
+                        border-radius: 109px 109px 109px 109px;
+                        background-image: url('imagen027.jpg');
+                        background-size: cover;
+                        }
+                        .contenedor70 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 60%;
+                        right: 0%;
+                        left: 75%;
+                        width: 19%;
+                        height: 15%;
+                        color: rgb(11, 6, 73); 
+                        font-size: 40px;
+                        font-weight: bold;
+                         overflow: hidden;
+                        } 
+                         .contenedor71 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 71%;
+                        right: 20%;
+                        left: 70%;
+                        width: 20%;
+                        height: 20%;
+                        font-size: 24px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }
+                       .contenedor72 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 82%;
+                        right: 20%;
+                        left: 56%;
+                        width: 40%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(12, 11, 11);
+                        overflow: hidden;
+                       } 
+
+                        .contenedor73 {
+                        position: absolute; 
+                        text-align: center;
+                        top: 100%;
+                        right: 20%;
+                        left: 2%;
+                        width: 30%;
+                        height: 8%;
+                        font-size: 16px;
+                        }
+                          h6 {
+                        color: rgb(14, 13, 13);
+                        text-align: center;
+                        font-size:  30px;
+                      }
+                      .contenedor74 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 113%;
+                        right: 20%;
+                        left: 3%;
+                        width: 90%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                       .contenedor75 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 112%;
+                        right: 0%;
+                        left: 80%;
+                        width: 20%;
+                        height: 50%;
+                        }
+                        .btn13 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #2e3099;   
+                           color: rgb(219, 224, 230);               
+                           text-decoration: none;       
+                           border-radius: 5px;         
+                           font-size: 29px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #3836b3;   
+                         }
+                         .bingo7 {
+                          position: absolute; 
+                          top: 126%;
+                          right: 8%;
+                          left: 2%;
+                          width: 48%;
+                          height: 55%;
+                          border-radius: 16px;
+                          background-image: url('imagen022.jpg');
+                          background-size: cover;
+                          }
+                          .contenedor76 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 178%;
+                        right: 20%;
+                        left: 3%;
+                        width: 9%;
+                        height: 7%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor77 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 178%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 29px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }
+                       .contenedor78 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 195%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor79 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 210%;
+                        right: 2%;
+                        left: 2%;
+                        width: 35%;
+                        height: 10%;
+                        }
+                        .btn14 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #9cc9cf;   
+                           color: rgb(35, 36, 116);               
+                           text-decoration: none;       
+                           border-radius: 7px;         
+                           font-size: 18px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #9df1f1;   
+                         }
+                          .bingo8 {
+                          position: absolute; 
+                          top: 126%;
+                          right: 8%;
+                          left: 54%;
+                          width: 44%;
+                          height: 55%;
+                          border-radius: 16px;
+                          background-image: url('imagen023.jpg');
+                          background-size: cover;
+                          }
+                            .contenedor80 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 178%;
+                        right: 20%;
+                        left: 56%;
+                        width: 9%;
+                        height: 7%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                       .contenedor81 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 178%;
+                        right: 20%;
+                        left: 54%;
+                        width: 49%;
+                        height: 20%;
+                        font-size: 29px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }
+                       .contenedor82 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 195%;
+                        right: 20%;
+                        left: 54%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                       .contenedor83 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 210%;
+                        right: 2%;
+                        left: 54%;
+                        width: 35%;
+                        height: 10%;
+                        }
+                        .btn15 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #9cc9cf;   
+                           color: rgb(35, 36, 116);               
+                           text-decoration: none;       
+                           border-radius: 7px;         
+                           font-size: 18px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #9df1f1;   
+                         }
+
+                         .bingo9 {
+                          position: absolute; 
+                          top: 220%;
+                          right: 8%;
+                          left: 2%;
+                          width: 48%;
+                          height: 55%;
+                          border-radius: 16px;
+                          background-image: url('imagen024.jpg');
+                          background-size: cover;
+                          }
+                           .contenedor84 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 273%;
+                        right: 20%;
+                        left: 3%;
+                        width: 9%;
+                        height: 7%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor85 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 273%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 29px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }
+                        .contenedor86 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 289%;
+                        right: 20%;
+                        left: 2%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor87 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 304%;
+                        right: 2%;
+                        left: 2%;
+                        width: 35%;
+                        height: 10%;
+                        }
+                        .btn16 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #9cc9cf;   
+                           color: rgb(35, 36, 116);               
+                           text-decoration: none;       
+                           border-radius: 7px;         
+                           font-size: 18px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #9df1f1;   
+                         }
+
+                          .bingo10 {
+                          position: absolute; 
+                          top: 220%;
+                          right: 8%;
+                          left: 54%;
+                          width: 44%;
+                          height: 55%;
+                          border-radius: 16px;
+                          background-image: url('imagen025.jpg');
+                          background-size: cover;
+                          }
+                            .contenedor88 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 273%;
+                        right: 20%;
+                        left: 56%;
+                        width: 9%;
+                        height: 7%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor89 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 273%;
+                        right: 20%;
+                        left: 54%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 29px;
+                        color: rgb(12, 11, 11);
+                        font-weight: bold;
+                        overflow: hidden;
+                       }
+                        .contenedor90 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 289%;
+                        right: 20%;
+                        left: 54%;
+                        width: 48%;
+                        height: 20%;
+                        font-size: 14px;
+                        color: rgb(49, 46, 46);
+                        overflow: hidden;
+                       }
+                        .contenedor91 {
+                        position: absolute; 
+                        text-align: left;
+                        top: 304%;
+                        right: 2%;
+                        left: 54%;
+                        width: 35%;
+                        height: 10%;
+                        }
+                        .btn17 {
+                           display: inline-block;      
+                           padding: 10px 20px;          
+                           background-color: #9cc9cf;   
+                           color: rgb(35, 36, 116);               
+                           text-decoration: none;       
+                           border-radius: 7px;         
+                           font-size: 18px;            
+                           font-weight: bold;           
+                           transition: background 0.6s; 
+                         }
+                         .btn:hover {
+                          background-color: #9df1f1;   
+                         }
+                        
